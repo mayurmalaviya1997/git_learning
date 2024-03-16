@@ -7,6 +7,7 @@ function App() {
       <h1>first commit at main branch</h1>
       <h1>Second commit at main branch</h1>
       <h1>second commit at staging branch</h1>
+      <h1>third commit at staging branch</h1>
     </div>
   );
 }
